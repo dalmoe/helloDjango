@@ -7,3 +7,5 @@ class PageCounter(models.Model):
     page = models.CharField(max_length=32, default='default')
     
     views = models.IntegerField(default=0)
+    
+    

@@ -123,3 +123,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 GEOIP_PATH = BASE_DIR + '/django_hello_world/APIs'
+
